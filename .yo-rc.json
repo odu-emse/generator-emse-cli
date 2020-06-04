@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Daniel Papp",
+      "authorEmail": "dpapp001@odu.edu",
+      "authorUrl": ""
+    }
+  }
+}
